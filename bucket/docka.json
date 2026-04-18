@@ -1,16 +1,16 @@
 {
-    "version": "0.2.9",
+    "version": "0.2.10",
     "description": "Self-hosted cloud infrastructure management platform (distributed edition)",
     "homepage": "https://docka.dev",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/docka-dev/docka-releases/releases/download/v0.2.9/docka-windows-amd64.zip",
-            "hash": "030211177fb78538e82c5acdc25a893fd141192823b22f16da4567f83ac356b9"
+            "url": "https://github.com/docka-dev/docka-releases/releases/download/v0.2.10/docka-windows-amd64.zip",
+            "hash": "3298beac9fa66b5c93b8be36feb12ac44b488f7a92edd2578f88acd5e887ea26"
         },
         "arm64": {
-            "url": "https://github.com/docka-dev/docka-releases/releases/download/v0.2.9/docka-windows-arm64.zip",
-            "hash": "9704c2b5f0dc0ca3ec1857fa2e8636c544980421240ffa70920668f6e2594090"
+            "url": "https://github.com/docka-dev/docka-releases/releases/download/v0.2.10/docka-windows-arm64.zip",
+            "hash": "7e9a7cd4424261b271f61b74655a06cb3efa368d5e8f00ea4e209304e10fb6e4"
         }
     },
     "bin": ["docka.exe", "docka-server.exe", "docka-agent.exe"],
